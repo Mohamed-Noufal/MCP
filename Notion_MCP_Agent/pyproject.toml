@@ -1,0 +1,21 @@
+[project]
+name = "notion-mcp-agent"
+version = "0.1.0"
+description = "A minimal MCP agent using Groq + Notion"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "agno",
+  "groq",
+  "python-dotenv",
+  "mcp"
+]
+
+[tool.uv.workspace]
+# Setting workspace to false is now done by disabling root discovery
+# The table must exist, even if empty
+members = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
