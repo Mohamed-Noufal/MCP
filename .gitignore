@@ -1,0 +1,40 @@
+# === Python ===
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# === Node.js ===
+# Dependency directory
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# === General / OS ===
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
