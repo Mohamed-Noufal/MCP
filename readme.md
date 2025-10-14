@@ -144,8 +144,8 @@ Please refer to individual project directories for specific licensing informatio
 
 ## 📧 Contact
 
-https://www.linkedin.com/in/mohamed-noufal-b7101a25b/
 For questions or collaboration:
+- LinkedIn: [@Mohamed-Noufal](https://www.linkedin.com/in/mohamed-noufal-b7101a25b/)
 - GitHub: [@Mohamed-Noufal](https://github.com/Mohamed-Noufal)
 
 ---
