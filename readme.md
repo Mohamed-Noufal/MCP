@@ -2,7 +2,7 @@
  
 This repository contains a comprehensive collection of MCP (Model Context Protocol) implementations, examples, and projects from various learning resources, primarily focused on building rich-context AI applications with Anthropic and other AI frameworks.
 
-## 📚 Repository Structure
+## 📚 Repository Structure 
 
 ### Core Learning Materials/
 
