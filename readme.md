@@ -6,7 +6,7 @@ This repository contains a comprehensive collection of MCP (Model Context Protoc
  
 ### Core Learning Materials/ 
 
-#### **Crash Course**
+#### **Crash Course** 
 Complete MCP crash course covering fundamentals to advanced topics:
 - Introduction and Context
 - Understanding MCP
