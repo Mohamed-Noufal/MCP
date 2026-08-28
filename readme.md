@@ -9,7 +9,7 @@ This repository contains a comprehensive collection of MCP (Model Context Protoc
 #### **Crash Course**   
 Complete MCP crash course covering fundamentals to advanced topics: 
 - Introduction and Context   
-- Understanding MCP
+- Understanding MCP 
 - Simple Server Setup (SSE, STDIO, Streamable HTTP)
 - OpenAI Integration
 - MCP vs Function Calling
